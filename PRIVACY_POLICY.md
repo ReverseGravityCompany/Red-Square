@@ -21,5 +21,3 @@ Arian khatib
 sajad khatib
 reversegravitycompany@gmail.com
 
-### **-More Information from developer-**
-the game is just created for testing (this is early game from Reverse Gravity)
